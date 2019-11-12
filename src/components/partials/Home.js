@@ -3,7 +3,7 @@ import Carousel from '../views/Carousel/Carousel';
 import { Layout } from 'antd';
 import 'antd/dist/antd.css';
 import Button from 'antd/es/button';
-import Posts from '../App/Posts';
+import Posts from '../App/Search';
 
 const { Content } = Layout;
 
